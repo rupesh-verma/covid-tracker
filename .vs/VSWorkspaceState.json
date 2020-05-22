@@ -1,4 +1,12 @@
 {
-  "ExpandedNodes": [],
-  "PreviewInSolutionExplorer": false
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\component",
+    "\\src\\component\\cards",
+    "\\src\\component\\charts",
+    "\\src\\component\\CountryPicker"
+  ],
+  "SelectedNode": "\\src\\serviceWorker.js",
+  "PreviewInSolutionExplorer": true
 }
